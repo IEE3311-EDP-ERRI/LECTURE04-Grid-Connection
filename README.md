@@ -15,6 +15,6 @@ Additionally this mandatory readings is requierd to understand the lecture fully
 * [SOGI and MSOGI Imperix](https://imperix.com/doc/implementation/sogi-pll?currentThread=single-phase-pv-inverter-with-fictive-axis-emulation)<br>
 * [Multiresonant FLL](https://github.com/IEE3311-EDP-ERRI/LECTURE04-Grid-Connection/blob/main/2011%20Multiresonant%20Frequency-Locked%20Loop%20for%20Grid%20Synchronization%20of%20Power%20Converters%20Under%20Distorted%20Grid%20Conditions.pdf)<br>
 
-Complementary Readings:
-[DDSRF](https://github.com/IEE3311-EDP-ERRI/LECTURE04-Grid-Connection/blob/main/2007%20Decoupled%20Double%20Synchronous%20Reference%20Frame%20PLL%20for%20Power%20Converters%20Control.pdf)<br>
-[Review of PLLs](https://github.com/IEE3311-EDP-ERRI/LECTURE04-Grid-Connection/blob/main/2011%20A%20review%20on%20synchronization%20methods%20for%20grid-connected%20three-phase%20VSC%20under%20unbalanced%20and%20distorted%20conditions.pdf)<br>
+Complementary Readings:<br>
+[Paper DDSRF](https://github.com/IEE3311-EDP-ERRI/LECTURE04-Grid-Connection/blob/main/2007%20Decoupled%20Double%20Synchronous%20Reference%20Frame%20PLL%20for%20Power%20Converters%20Control.pdf)<br>
+[Paper Review of PLLs](https://github.com/IEE3311-EDP-ERRI/LECTURE04-Grid-Connection/blob/main/2011%20A%20review%20on%20synchronization%20methods%20for%20grid-connected%20three-phase%20VSC%20under%20unbalanced%20and%20distorted%20conditions.pdf)<br>
