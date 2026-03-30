@@ -6,8 +6,8 @@ The main goal of this lecture is that stundents understand how to track the phas
 
 Additionally this mandatory readings is requierd to understand the lecture fully (to read them in the same oreder is recommended):<br>
 
-* [Clarke Transform](https://www.youtube.com/watch?v=KXy2IokcNpo)<br>
-* [Park Transform](https://www.youtube.com/watch?v=KXy2IokcNpo)<br>
+* [Clarke Transform](https://la.mathworks.com/help/mcb/ref/clarketransform.html)<br>
+* [Park Transform](https://la.mathworks.com/help/sps/ref/clarketoparkangletransform.html)<br>
 * [Fortscue Transform - Symmetrical Components or Sequence Separation](https://www.youtube.com/watch?v=GLsK809Hct8) and [this](https://www.youtube.com/watch?v=KXy2IokcNpo)<br>
 * [Notes about Transformations](https://github.com/IEE3311-EDP-ERRI/LECTURE04-Grid-Connection/blob/main/Sequence_Separation.pdf)<br>
 * [Grid Synchronization Summary Imperix](https://imperix.com/doc/implementation/grid-synchronization-methods?currentThread=active-front-end-afe)<br>
